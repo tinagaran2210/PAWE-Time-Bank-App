@@ -1,0 +1,7 @@
+1. go to https://www.swing2app.com/ and signup an account and log in.
+2. Press maker(v2) in the menu.
+3. input the app id, app name, app icon and the splash screen.
+4. select next and select thee web view only.
+5. select next and put the pawe link.
+6. press app creaton request and select recommend update.
+7. can download the app after 5-6 minutes, it will send an email to the register email.
